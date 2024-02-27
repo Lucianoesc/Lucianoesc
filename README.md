@@ -4,11 +4,11 @@
 
 <p>- <i>Apasionado estudiante de Analista de Sistemas y entusiasta de la programación. Me encanta explorar nuevas tecnologías y desafíos en el mundo del desarrollo de software. Actualmente, me encuentro inmerso en el universo de .NET, buscando expandir mis conocimientos y habilidades en este emocionante campo. Con un enfoque dedicado en .NET, C#, Winforms, Linq, Ado.net, Entity Framework y SQL, además de incursiones en Python y Front-End con React y Next.js. Aunque mi experiencia laboral se centra en el análisis funcional, mi pasión por la programación me ha llevado a profundizar en múltiples áreas del desarrollo de software.</i></p>
 
-<img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="45%" align="right" />
 
 ## ⚡🙋‍♂️ Sobre mí
 
 </br>
+<img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="45%" align="right" />
 
 - 🎓 Actualmente cursando Analista de Sistemas.
 - 🚀 Interesado en proyectos desafiantes y oportunidades de crecimiento.
