@@ -20,9 +20,9 @@
 
 | | | |
 | --- | --- | --- |
-|C#       | ![](https://via.placeholder.com/150x22/000000/000000?text=+)![](https://via.placeholder.com/40x22/b8b8b8/b8b8b8?=text=+) | 60.56% |
+|C#       | ![](https://via.placeholder.com/130x22/000000/000000?text=+)![](https://via.placeholder.com/40x22/b8b8b8/b8b8b8?=text=+) | 60.56% |
 |JavaScript| ![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/160x22/b8b8b8/b8b8b8?=text=+) | 19.38% |
-|Python   | ![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/165x22/b8b8b8/b8b8b8?=text=+) | 20.06% |
+|Python   | ![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/165x22/b8b8b8/b8b8b8?=text=+) | 20.06% |
 
 
 
