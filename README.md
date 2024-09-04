@@ -2,7 +2,7 @@
 
 # ¡Hola! 👋 Soy Luciano Escobar!!
 
-<p>- <i>Apasionado estudiante de Analista de Sistemas y entusiasta de la programación. Me encanta explorar nuevas tecnologías y desafíos en el mundo del desarrollo de software. Actualmente, me encuentro inmerso en el universo de .NET, buscando expandir mis conocimientos y habilidades en este emocionante campo. Con un enfoque dedicado en .NET, C#, Winforms, Linq, Ado.net, Entity Framework y SQL, además de incursiones en Python y Front-End con React y Next.js. Actualmente me encuentro trabajando en Voolkia Software & Services, como desarrollador fullstack. Me encuentro interesado en proyectos desafiantes para conocer mis limites y crecer profesionalmente.</i></p>
+<p>- <i>Apasionado estudiante de Analista de Sistemas y entusiasta de la programación. Me encanta explorar nuevas tecnologías y desafíos en el mundo del desarrollo de software. Actualmente, me encuentro inmerso en el universo de .NET, buscando expandir mis conocimientos y habilidades en este emocionante campo. Con un enfoque dedicado en .NET, C#, Winforms, Linq, Ado.net, Entity Framework y SQL, además de incursiones en Python y Front-End con React y Next.js. Me encuentro interesado en proyectos desafiantes para conocer mis limites y crecer profesionalmente.</i></p>
 
 
 ## ⚡🙋‍♂️ Sobre mí
