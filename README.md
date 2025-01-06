@@ -4,10 +4,9 @@
 
 <p>- <i>Soy un Desarrollador FULLSTACK con experiencia en tecnologías backend y frontend, especializado en .NET (C#, ADO.NET, Entity Framework), React y Next.js. Tengo un sólido conocimiento en desarrollo de aplicaciones web, bases de datos SQL y Python para automatización y scripting. Apasionado por resolver problemas complejos y crear soluciones eficientes, estoy comprometido con el aprendizaje continuo y la adopción de nuevas tecnologías. Busco contribuir a proyectos que impulsen mi crecimiento profesional mientras aporto valor al equipo y a los objetivos del negocio.</i></p>
 
+</br>
 
 ## ⚡🙋‍♂️ Sobre mí
-
-</br>
 <img src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif" width="45%" align="right" />
 
 - 🎓 Graduado como Técnico Superior en Análisis de Sistemas (2021-2024).
