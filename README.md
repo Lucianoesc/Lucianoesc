@@ -12,7 +12,7 @@
 
 - 🎓 Actualmente cursando Analista de Sistemas.
 - 🚀 Interesado en proyectos desafiantes y oportunidades de crecimiento.
-- 📫 Puedes contactarme en: luciano.esc@hotmail.com
+- 📫 Puedes contactarme en: luciano.esco.ar@gmail.com
 
 <hr>
 
